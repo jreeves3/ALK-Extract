@@ -44,6 +44,7 @@ A selection of benchmarks from the SAT Competition Anniversary Track are include
 Expected results:
 
 | Benchmark     | Grid cons | Hier cons | Orig sole time (s) | Reencoded solve time (s) |
+|---|---:|---:|---:|---|
 | baseball      | 15        | 13        | 67    | 4 |
 | edit_distance | 0         | 1         | 111   | >5000 |
 | ktf           | 0         | 4         | >5000 | >5000 |
